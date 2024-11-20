@@ -30,4 +30,4 @@ To convert or enhance into a full Web Application or an API. I will use the foll
 - Mongoose as an ORM for a database MongoDB
 - A different ORM for a RDBMs like MySQL
 - dotenv: Maintain a separate configuation file to hold secrets and environment variables
-- Define a logger to handle various logged message types
+- Define a logger like Winston or a custom built logger
